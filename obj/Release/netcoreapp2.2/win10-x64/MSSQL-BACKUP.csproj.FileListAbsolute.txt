@@ -1,0 +1,14 @@
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.exe
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.deps.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.runtimeconfig.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.runtimeconfig.dev.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.pdb
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.csprojAssemblyReference.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.csproj.CoreCompileInputs.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.AssemblyInfoInputs.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.AssemblyInfo.cs
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Release\netcoreapp2.2\win10-x64\MSSQL-BACKUP.pdb

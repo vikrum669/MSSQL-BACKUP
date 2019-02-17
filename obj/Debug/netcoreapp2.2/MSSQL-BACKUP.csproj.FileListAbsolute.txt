@@ -1,0 +1,11 @@
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Debug\netcoreapp2.2\MSSQL-BACKUP.deps.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Debug\netcoreapp2.2\MSSQL-BACKUP.runtimeconfig.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Debug\netcoreapp2.2\MSSQL-BACKUP.runtimeconfig.dev.json
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Debug\netcoreapp2.2\MSSQL-BACKUP.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\bin\Debug\netcoreapp2.2\MSSQL-BACKUP.pdb
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.csprojAssemblyReference.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.csproj.CoreCompileInputs.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.AssemblyInfoInputs.cache
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.AssemblyInfo.cs
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.dll
+C:\Users\vikru\Desktop\MSSQL-BACKUP\obj\Debug\netcoreapp2.2\MSSQL-BACKUP.pdb
